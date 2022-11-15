@@ -422,14 +422,7 @@ h1 {
     text-align: center;
     color: white;
     font-size: 3.5em;
-}
-h2 {
-    position: relative;
-    top: 300px;
-    text-align: center;
-    color: white;
-    font-size: 3.5em;
-}    
+}   
 .swal-overlay {
     background-color: rgba(218, 57, 177, 0.45);
 }
